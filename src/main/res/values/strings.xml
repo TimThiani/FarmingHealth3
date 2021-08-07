@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Farming Health 3</string>
+    <string name="tab_text_1">Take Pictures</string>
+    <string name="tab_text_2">Livestock Market Predictor</string>
+    <string name="tab_text_3">Rate Us</string>
+    <string name="take_pictures">Take Pictures</string>
+    <string name="livestock_market_predictor">Livestock Market Predictor</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="please_fill_in_the_animal_parameters">animal parameter</string>
+    <string name="breed1">breed</string>
+    <string name="county">county</string>
+    <string name="predict">predict</string>
+    <string name="enter_age_of_animal">age</string>
+    <string name="enter_weight_of_animal">weight</string>
+    <string name="gender">gender</string>
+    <string name="submit_response">Submit Response</string>
+    <string name="share_your_experience_with_us">Share your experience with us</string>
+    <string name="rate_our_app">Rate our App</string>
+    <string name="farming_health_assistant">farming health</string>
+    <string name="login">login</string>
+    <string name="phone_number">phone</string>
+    <string name="enter_your_phone_number_here">enter phone no</string>
+    <string name="password">pwd</string>
+    <string name="enter_your_password_here">enter pwd</string>
+</resources>
